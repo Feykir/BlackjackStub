@@ -1,6 +1,11 @@
 import 'dart:math';
 
 
-List<int> Shuffler(List<int> theList){
+import 'dart:math';
+//import random;
 
+
+List<int> Shuffler(List<int> deck){
+  deck.shuffle();
+  return deck;
 }
