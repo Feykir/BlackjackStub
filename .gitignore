@@ -1,0 +1,8 @@
+.dart_tool/
+.idea/BlackjackStub2.iml
+.idea/libraries/
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+.packages
+pubspec.lock
